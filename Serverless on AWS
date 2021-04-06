@@ -1,0 +1,194 @@
+1
+Which one of the following is NOT a characteristic of Serverless in AWS for lambdas?
+
+Ans:- Choice of using containers or VMs for running serverless functions
+
+2
+What is an integration request in API Gateway?
+
+Ans:- Helps in transforming the request sent by the client before calling the backend service
+
+3
+Which one of the following is NOT a component of Amplify?
+
+Ans:- Amplify Toolkit
+
+4
+Which one of the following is a component of Amplify?
+
+Ans:- Amplify CLI
+
+5
+Which one of the following is the default logging/monitoring service for Lambda functions?
+
+Ans:- Amazon CloudWatch
+
+6
+Which one of the following is the method (REST) to be used when integrating API Gateway directly with DynamoDB:
+
+Ans:- POST
+
+7
+Which one of the following is correct about the difference between Amazon CloudWatch and AWS X-Ray?
+
+Ans:- X-Ray is a service for debugging and tracing applications, whereas CloudWatch collects monitoring and operational data
+
+8
+You want to ingest data of your own applications to various AWS services. What is possible service you will prefer?
+
+Ans:- Amazon EventBridge
+
+9
+Which one of the following is NOT a benefit of a serverless approach?
+
+Ans:- Provide a capacity reservation through reserved instances of servers to run code
+
+10
+Which Serverless Application Integration service will you suggest to create a data ETL (Extract-Transform-Load) pipeline?
+
+Ans:- AWS StepFunctions
+
+11
+Which AWS service will you prefer for Face Detection and Analysis?
+
+Ans:- AWS Rekognition
+
+12
+You want to use an AWS service for a NoSQL database that provides high & consistent performance, has seamless scalability, and highly durable and available. What’s more, you need sub-second latency for responses. Which one of the following is a suitable solution in this scenario?
+
+Ans:- DynamoDB
+
+13
+Which one of the following is a fast, flexible, fully managed pub/sub messaging service in AWS?
+
+14
+TRUE or FALSE: When building a serverless application, developers typically use an event-driven architecture.
+
+Ans:- TRUE
+
+15
+Which one of the following is NOT a component of Amplify?
+
+Ans:- Amplify Toolkit
+
+16
+When you create a state machine, you can select the workflow type of either Standard or Express. Which one of the following is NOT a correct option for the workflows?
+
+Ans:- Express Workflows are never executed more than once unless you have specified Retry behavior
+
+17
+Which one of the following is the default logging/monitoring service for Lambda functions?
+
+Ans:- Amazon CloudWatch
+
+18
+Which one of the following principles is key to apply for creating lambda functions in microservices architectural style?
+
+Ans:- Single Responsibility Principle (SRP)
+
+19
+What does the AWS Storage Gateway provide?
+
+Ans:- It provides seamless integration with data security features between your on-premises IT environment and the Amazon Web Services (AWS) storage infrastructure.
+
+20
+You want to ingest data of your own applications to various AWS services. What is possible service you will prefer?
+
+Ans:- Amazon EventBridge
+
+21
+Which of the following AWS services helps you to build and update apps quickly into serverless workflows?
+
+Ans:- Step functions
+
+22
+API Gateway mapping templates are written in which language?
+
+Ans:- Velocity Template Language (VTL)
+
+23
+Which command is used to add API to your Amplify project?
+
+Ans:- amplify add api
+
+
+24
+Which is NOT the property/characteristic of AWS Step Functions?
+
+Ans:- Helps to publish, maintain, monitor, secure, and operate APIs at any scale
+
+25
+Which command is used to create a new Amplify project?
+
+Ans:- amplify init
+
+26
+To ensure optimal performance and least latency for a gaming application which service would you suggest as a gaming app architect?
+
+Ans:-Amazon ElastiCache
+
+27
+What does the “aws cloudformation package” CLI command do?
+
+Ans:- Helps is uploading the Lambda function’s source code to an S3 bucket, which are referenced in the lambda configuration file
+
+28
+Which one of the following is a component of Amplify?
+
+Ans:- Amplify CLI
+
+29
+Which one of the following is the default logging/monitoring service for Lambda functions?
+
+Ans:- Amazon CloudWatch
+
+30
+Which command lets you create new AWS IAM user in cloud?
+
+Ans:- aws configure
+
+31
+Which of the following is FALSE about AWS Step Functions
+
+Ans:- Enables the capability to run a specific lambda function more than the configured timeout
+
+32
+Which AWS service is appropriate to create GraphQL APIs?
+
+Ans:- AWS AppSync
+
+33
+When you create a state machine, you can select the workflow type of either Standard or Express. Which one of the following is NOT a correct option for the workflows?
+
+Ans:- Express Workflows are never executed more than once unless you have specified Retry behavior
+
+34
+TRUE or FALSE: GraphQL APIs can be developed by using Amplify
+
+Ans:- TRUE
+
+35
+Is developing chatbot an appropriate use case for serverless approach?
+
+Ans:- YES
+
+36
+Which one of the following is a component of Amplify?
+
+Ans:- Amplify CLI
+
+37
+Which AWS service will you prefer for Face Detection and Analysis?
+
+Ans:- AWS Rekognition
+
+38
+Which one of the following is a fast, flexible, fully managed pub/sub messaging service in AWS?
+
+Ans:- Amazon SNS
+
+39
+Which command is used to create a new Amplify project?
+
+Ans:- amplify init
+
